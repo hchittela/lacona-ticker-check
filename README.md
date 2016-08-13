@@ -1,0 +1,1 @@
+# lacona-ticker-check
